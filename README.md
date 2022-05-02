@@ -6,7 +6,7 @@ For the text editor, I tryed to use Code Mirror, but I didn't discover how to us
 This will a goal to conclude in the future, I will study more to it.
 For the chart,I used React-apexcharts (https://www.npmjs.com/package/react-apexcharts)
 
-You can test this application here: https://challenge-chart.vercel.app/
+You can test this application here: https://challenge-chart-intelie.vercel.app/
 
 ### How use this application locally?
 
@@ -32,6 +32,6 @@ If there is a new _span event_, a new global timestamp will be defined and a che
 
 ### An example of entry is:
 
-https://github.com/laizabaptista/intelie-challenges/blob/main/public/example.txt
+https://github.com/laizabaptista/challenge-chart/blob/main/public/example.txt
 
 
